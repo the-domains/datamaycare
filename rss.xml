@@ -4,8 +4,15 @@
         <description><![CDATA[datamaycare, LLC]]></description>
         <link>http://datamaycare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 18:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 18:57:43 GMT</lastBuildDate>
         <atom:link href="http://datamaycare.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>datamaycare, LLC</p></article>]]></description>
+            <link>http://datamaycare.com/contact/index.html</link>
+            <guid isPermaLink="false">48862128-481d-4030-b4fc-266a9415cb72</guid>
+            <pubDate>Wed, 06 Apr 2016 18:57:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eada3b9-41ba-4062-92f5-25f9a82c852c.jpg">]]></description>
